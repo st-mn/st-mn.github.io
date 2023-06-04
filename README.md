@@ -1,5 +1,5 @@
 <h1 align="center">Hey it's st-mn 👨‍💻</h1>
-- 💬 Ask me about machine learning and information security
+💬 Ask me about machine learning and information security
 
 
 <p align="left">
