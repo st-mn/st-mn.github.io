@@ -1,7 +1,7 @@
 <h1 align="center">Hey it's st-mn 👨‍💻</h1>
 - 💬 Ask me about machine learning and information security
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
