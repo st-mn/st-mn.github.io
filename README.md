@@ -1,4 +1,4 @@
-<h1 align="center">Hey it's st-mn 👨‍💻</h1>
+<h1 align="center">👨‍💻</h1>
 💬 Ask me about machine learning and information security
 
 
